@@ -1,7 +1,7 @@
 # Spectogram classification
 
 ## Description
-This project includes all the code used during a private kaggle competition. This solution got 1st place on both public and private leaderboard.
+This project includes all the code used during a private kaggle competition. This solution got 7th place on both public and private leaderboard.
 
 ## Requirements
 
