@@ -17,5 +17,5 @@ This project includes all the code used during a private kaggle competition. Thi
 
 ## Additional info
 
-For additional information / used data / trained models - send me a private message or an e-mail at kacper1095@gmail.com.
+For additional information / used data / trained models - send me a private message or an e-mail at kacp.kania@gmail.com.
 
